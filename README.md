@@ -1,4 +1,6 @@
-# Nextra Docs Template 
+# Nextra Docs Template
+
+[repository](https://github.com/shuding/nextra/tree/main/docs)
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
 
